@@ -1,5 +1,5 @@
 # Hardhat notes
-# Commands
+## Commands
 
 ```bash
 # Compile code
